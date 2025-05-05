@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Luiz",
+        "email": "luiz@teste.com.br",
+        "senha": "$2y$12$7FCyz1uNmU9tEO56A968VOCY0.ceGPHdk.JeOGpi\/Hjs.AoPK97f6"
+    },
+    {
+        "id": 2,
+        "nome": "Nathan",
+        "email": "nathan@teste.com.br",
+        "senha": "$2y$12$AI4jFFAfGxvzdWMEeHZi0ut6GkUsjyxuesDVqSfyLYGC\/Oo\/RHoom"
+    },
+    {
+        "id": 3,
+        "nome": "Willian",
+        "email": "willian@teste.com.br",
+        "senha": "$2y$12$xtiwGtaawimq0NF0TolUdeySgLKS\/HOKBctzYkn4CMeXj\/fKSJx.u"
+    }
+]

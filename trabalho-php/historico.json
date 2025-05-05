@@ -1,0 +1,57 @@
+[
+    {
+        "id": "6817a95363332",
+        "tarefa_id": "6817a9505bfad",
+        "tarefa_descricao": "Finalizar relatório mensal",
+        "tipo": "status",
+        "valor_antigo": "pendente",
+        "valor_novo": "andamento",
+        "usuario_id": 1,
+        "usuario_nome": "Luiz",
+        "data": "2025-05-04 17:52:19"
+    },
+    {
+        "id": "6817aa08012cb",
+        "tarefa_id": "6817a9505bfad",
+        "tarefa_descricao": "Finalizar relatório mensal",
+        "tipo": "status",
+        "valor_antigo": "andamento",
+        "valor_novo": "concluida",
+        "usuario_id": 1,
+        "usuario_nome": "Luiz",
+        "data": "2025-05-04 17:55:20"
+    },
+    {
+        "id": "6817aba3e9e18",
+        "tarefa_id": "6817b1234abcd",
+        "tarefa_descricao": "Revisar código do projeto X",
+        "tipo": "status",
+        "valor_antigo": "pendente",
+        "valor_novo": "concluida",
+        "usuario_id": 2,
+        "usuario_nome": "Nathan",
+        "data": "2025-05-04 18:02:11"
+    },
+    {
+        "id": "6817aba666ec8",
+        "tarefa_id": "6817b9101ijkl",
+        "tarefa_descricao": "Preparar apresentação para reunião",
+        "tipo": "status",
+        "valor_antigo": "pendente",
+        "valor_novo": "andamento",
+        "usuario_id": 2,
+        "usuario_nome": "Nathan",
+        "data": "2025-05-04 18:02:14"
+    },
+    {
+        "id": "6817abb9d0eb8",
+        "tarefa_id": "6817b7890qrst",
+        "tarefa_descricao": "Atualizar documentação do sistema",
+        "tipo": "status",
+        "valor_antigo": "pendente",
+        "valor_novo": "concluida",
+        "usuario_id": 2,
+        "usuario_nome": "Nathan",
+        "data": "2025-05-04 18:02:33"
+    }
+]

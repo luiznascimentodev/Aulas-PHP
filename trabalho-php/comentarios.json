@@ -1,0 +1,34 @@
+[
+    {
+        "id": "6817a95adaef6",
+        "tarefa_id": "6817a9505bfad",
+        "usuario_id": 1,
+        "usuario_nome": "Luiz",
+        "texto": "Precisamos revisar os detalhes desta tarefa para garantir que tudo esteja correto.",
+        "data_criacao": "2025-05-04 17:52:26"
+    },
+    {
+        "id": "6817abb2b2ab1",
+        "tarefa_id": "6817b5678efgh",
+        "usuario_id": 2,
+        "usuario_nome": "Nathan",
+        "texto": "Sugiro uma abordagem diferente para melhorar os resultados desta tarefa.",
+        "data_criacao": "2025-05-04 18:02:26"
+    },
+    {
+        "id": "6817abc8c1012",
+        "tarefa_id": "6817b7890qrst",
+        "usuario_id": 2,
+        "usuario_nome": "Nathan",
+        "texto": "Os novos funcionários precisam de treinamento adicional para melhorar o desempenho.",
+        "data_criacao": "2025-05-04 18:02:48"
+    },
+    {
+        "id": "6817abe5b3274",
+        "tarefa_id": "6817b7890qrst",
+        "usuario_id": 1,
+        "usuario_nome": "Luiz",
+        "texto": "Podemos considerar a automação de algumas tarefas para aumentar a eficiência.",
+        "data_criacao": "2025-05-04 18:03:17"
+    }
+]
